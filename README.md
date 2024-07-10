@@ -1,3 +1,5 @@
+### MarketLens
+
 This is frontend repository of MarketLens application. This application is developed using ReactJS. It uses libraries like
 
 - Recharts for interactive charts
